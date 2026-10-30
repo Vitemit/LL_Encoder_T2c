@@ -1,0 +1,23 @@
+# Datatypes
+EncoderMode	KEYWORD1
+_LL_Encoder_T2c	KEYWORD1
+
+# Constants
+LL_INPUT	LITERAL1
+LL_INPUT_PULLUP	LITERAL1
+LL_EXTERNAL_PULLUP	LITERAL1
+
+# Methods
+begin	KEYWORD2
+update	KEYWORD2
+GetCount	KEYWORD2
+GetPulseRight	KEYWORD2
+GetPulseLeft	KEYWORD2
+GetDirectionCode	KEYWORD2
+GetKeyState	KEYWORD2
+GetCountKey	KEYWORD2
+GetPulseRightKey	KEYWORD2
+GetPulseLeftKey	KEYWORD2
+GetDirectionCodeKey	KEYWORD2
+ResetCount	KEYWORD2
+ResetCountKey	KEYWORD2
